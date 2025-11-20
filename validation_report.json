@@ -1,0 +1,19 @@
+{
+    "recipes": {
+        "valid": 16,
+        "invalid": 0
+    },
+    "ingredients": {
+        "valid": 54,
+        "invalid": 0
+    },
+    "steps": {
+        "valid": 51,
+        "invalid": 0
+    },
+    "interactions": {
+        "valid": 207,
+        "invalid": 0,
+        "invalid_records": []
+    }
+}

@@ -1,0 +1,208 @@
+interactionId,userId,recipeId,type,createdAt,rating,difficultyRating,successStatus,comment,source
+1zCinNzNpSAE6sItzA5v,user_adi,recipe_masala_omelette,rating,2025-11-08T12:27:56.321915+00:00,3.0,,,,mobile
+2JoVCeWZDOaSgVGCX9DV,user_taster_2,recipe_grilled_sandwich,rating,2025-10-25T22:58:56.321915+00:00,5.0,,,,web
+361FDCfUxrBgV1lW0oJs,user_adi,recipe_choco_brownie,like,2025-11-11T00:46:56.321915+00:00,,,,,web
+3YNjyE1uzIs9sxy6Paq2,user_taster_2,recipe_veg_maggi,rating,2025-10-25T23:39:56.321915+00:00,5.0,,,,web
+3lox31p8eUz18ZGcUZin,user_taster_1,recipe_grilled_sandwich,cook_attempt,2025-11-19T13:27:56.321915+00:00,,2.0,partial,Turned out great!,mobile
+4Jd78Gud8tqj4rZJA3dk,user_taster_2,recipe_smoothie,rating,2025-11-11T23:19:56.321915+00:00,4.0,,,,web
+4n6GMiPCEbXSAh3D2ufT,user_adi,recipe_masala_omelette,cook_attempt,2025-11-03T14:32:56.321915+00:00,,5.0,partial,Turned out great!,web
+5KjerU7ptlEK1u5QHGor,user_taster_1,recipe_veg_maggi,like,2025-11-17T04:32:56.321915+00:00,,,,,mobile
+5MPL7kWPgQMbxpvxwxRR,user_chef_1,recipe_dal_tadka,like,2025-10-28T16:18:56.321915+00:00,,,,,mobile
+5QfD8Hwqmz9VTgBD9rMY,user_adi,recipe_choco_brownie,like,2025-11-07T07:18:56.321915+00:00,,,,,mobile
+5SjWAP1UAQWgzpUnk4wn,user_taster_1,recipe_choco_brownie,cook_attempt,2025-10-26T20:56:56.321915+00:00,,4.0,partial,Turned out great!,mobile
+5d13U4NIzfrN0QJHssOp,user_chef_2,recipe_garlic_bread,view,2025-10-31T23:01:56.321915+00:00,,,,,web
+5z0J71v7v2lu55UQjmGx,user_taster_1,recipe_fried_rice,cook_attempt,2025-11-19T19:32:56.321915+00:00,,2.0,partial,Nice and easy recipe.,web
+65OqGVOjkQ2C1BONq9vZ,user_taster_2,recipe_white_sauce_pasta,like,2025-11-17T06:17:56.321915+00:00,,,,,web
+68XzfFgnS4runotfMzFj,user_adi,recipe_fried_rice,like,2025-11-14T17:42:56.321915+00:00,,,,,web
+6HPWBADw8qHR0kjBHVow,user_adi,recipe_veg_wrap,rating,2025-10-29T15:39:56.321915+00:00,3.0,,,,web
+6ZUosEggxv2dVUwmYUmU,user_chef_1,recipe_smoothie,cook_attempt,2025-11-19T17:59:56.321915+00:00,,5.0,partial,A bit too spicy.,mobile
+6qDWJBQUQQ0jRsqghmVU,user_taster_2,recipe_masala_omelette,cook_attempt,2025-10-23T00:24:56.321915+00:00,,4.0,failed,A bit too spicy.,mobile
+6xDHvck9Q64Q2pkeWWkx,user_taster_1,recipe_veg_maggi,view,2025-11-06T05:08:56.321915+00:00,,,,,mobile
+72gCzWiHvcXPgrLnkC1d,user_chef_2,recipe_grilled_sandwich,like,2025-10-23T06:43:56.321915+00:00,,,,,web
+74AwYjwEcohhUCICGM2S,user_taster_1,recipe_fried_rice,view,2025-11-08T19:32:56.321915+00:00,,,,,web
+7eSXGdireKH9lQEYVKoS,user_adi,recipe_smoothie,view,2025-11-07T15:44:56.321915+00:00,,,,,web
+83nWjag4yX4YkY01mZwH,user_taster_2,recipe_salad_bowl,view,2025-11-07T21:49:56.321915+00:00,,,,,mobile
+8EVhffEFBM8JU0cJgVxB,user_taster_2,recipe_veg_pulao,like,2025-11-14T09:43:56.321915+00:00,,,,,mobile
+8PIUqt0FlxMYrPtvB6lR,user_adi,recipe_tomato_soup,like,2025-11-02T17:40:56.321915+00:00,,,,,web
+8eA1RU73xXzLC2aWSNQB,user_taster_2,recipe_masala_omelette,like,2025-10-26T21:40:56.321915+00:00,,,,,mobile
+8foOJiOtqIfcF7TMFfgB,user_taster_2,recipe_veg_pulao,view,2025-10-29T07:32:56.321915+00:00,,,,,mobile
+8iX8hYtgFzHKyEyGaL4Q,user_chef_1,recipe_veg_maggi,rating,2025-11-10T20:10:56.321915+00:00,3.0,,,,mobile
+8w1KxT6SICkOECTarPrT,user_chef_2,recipe_pancakes,view,2025-11-17T15:01:56.321915+00:00,,,,,mobile
+9w8VWYMbqox6Ky2MtHsl,user_chef_2,recipe_paneer_butter_masala,like,2025-11-13T10:30:56.321915+00:00,,,,,web
+A7TVlBh8xLy9wjDmEOwt,user_taster_1,recipe_dal_tadka,cook_attempt,2025-10-27T22:13:56.321915+00:00,,2.0,success,Turned out great!,mobile
+A9Xcg43L5MNcIbTAMuM3,user_adi,recipe_garlic_bread,view,2025-10-31T18:34:56.321915+00:00,,,,,web
+AKC1OhGDC5VhQLi8qeA6,user_chef_1,recipe_choco_brownie,rating,2025-10-21T20:24:56.321915+00:00,5.0,,,,web
+BAzYXnjObv4WgLGRWQUM,user_chef_2,recipe_veg_pulao,view,2025-10-21T04:29:56.321915+00:00,,,,,web
+BZRZZiArJvMukvM2oAtm,user_chef_2,recipe_salad_bowl,rating,2025-11-03T20:47:56.321915+00:00,3.0,,,,web
+BbGLctuowGmXGtH01yXQ,user_taster_2,recipe_tomato_soup,view,2025-10-21T03:07:56.321915+00:00,,,,,web
+BdeeBO0LJBkWZH2u8sQe,user_chef_1,recipe_fried_rice,cook_attempt,2025-10-23T12:51:56.321915+00:00,,3.0,failed,A bit too spicy.,web
+CDvyEmDqimEo1SBShPxg,user_chef_1,recipe_garlic_bread,rating,2025-11-09T19:59:56.321915+00:00,4.0,,,,web
+CjXI6nfzkls7rgDO8WdQ,user_chef_2,recipe_white_sauce_pasta,view,2025-11-04T09:20:56.321915+00:00,,,,,mobile
+Ct01N6Ghqfu4uh957pr7,user_chef_2,recipe_veg_pulao,cook_attempt,2025-11-12T20:47:56.321915+00:00,,5.0,partial,Turned out great!,web
+DHeJhxs1Qgs5NMKdeiTZ,user_adi,recipe_paneer_butter_masala,cook_attempt,2025-10-21T02:24:56.321915+00:00,,1.0,success,A bit too spicy.,mobile
+DfivILiAQsHRKcUIqh8a,user_taster_2,recipe_fried_rice,cook_attempt,2025-10-27T20:00:56.321915+00:00,,4.0,failed,Turned out great!,mobile
+E0DhmkBYST72l66CDvg2,user_chef_2,recipe_grilled_sandwich,rating,2025-10-30T05:32:56.321915+00:00,5.0,,,,web
+EKQQJvSuUwGAQriBh90f,user_taster_1,recipe_masala_omelette,like,2025-11-12T03:49:56.321915+00:00,,,,,mobile
+EwZTIWia0bw7NRSswH4I,user_adi,recipe_dal_tadka,view,2025-11-04T20:08:56.321915+00:00,,,,,web
+FR6H31GhIKJpDeC6eTfw,user_adi,recipe_pancakes,like,2025-11-19T16:20:56.321915+00:00,,,,,mobile
+FXoji9oMFKkj2yh5Pomx,user_chef_2,recipe_choco_brownie,view,2025-10-31T08:08:56.321915+00:00,,,,,web
+FtsV6s0iFxMLEpe6utfF,user_taster_2,recipe_garlic_bread,cook_attempt,2025-10-24T19:46:56.321915+00:00,,4.0,success,Turned out great!,web
+G9688OlYUJ2UgpiBg1mL,user_adi,recipe_pancakes,rating,2025-11-15T23:38:56.321915+00:00,4.0,,,,mobile
+GCZ9GAvE2to5qdLiqyWl,user_adi,recipe_veg_wrap,like,2025-11-20T00:33:56.321915+00:00,,,,,mobile
+Gg1IPsbijKftsp0jZxRX,user_adi,recipe_garlic_bread,rating,2025-11-19T18:45:56.321915+00:00,5.0,,,,web
+H1DWUhtQ58ezeeKT1aXx,user_chef_2,recipe_masala_omelette,view,2025-11-15T01:55:56.321915+00:00,,,,,web
+H5OTsY9QXP5CqPhn711j,user_taster_2,recipe_choco_brownie,rating,2025-10-31T21:04:56.321915+00:00,4.0,,,,mobile
+H6zHHzI924dd7XUP7JqV,user_chef_2,recipe_grilled_sandwich,view,2025-11-10T00:36:56.321915+00:00,,,,,web
+HJk0u1VOxN4QpQ7vHMcl,user_adi,recipe_pancakes,view,2025-10-31T13:21:56.321915+00:00,,,,,mobile
+HKKxGtjfNwhrpxJYilvc,user_taster_1,recipe_garlic_bread,rating,2025-10-24T01:42:56.321915+00:00,5.0,,,,mobile
+HcQsxEZlELiMOndkYMoY,user_taster_2,recipe_smoothie,like,2025-11-08T13:06:56.321915+00:00,,,,,web
+I1E4JocWCZgpOWkKFTrb,user_taster_1,recipe_choco_brownie,like,2025-11-15T19:20:56.321915+00:00,,,,,web
+InbPUdOgNNJCv6G5eTlC,user_taster_1,recipe_veg_wrap,view,2025-11-19T02:31:56.321915+00:00,,,,,web
+J2z0YHzUOkDNtprvUXLr,user_chef_1,recipe_dal_tadka,view,2025-10-31T01:48:56.321915+00:00,,,,,web
+J39QgAZUAlkEGDTfExr8,user_taster_2,recipe_masala_omelette,view,2025-11-05T12:28:56.321915+00:00,,,,,web
+JBfqgjAF32lBMjaF2H6l,user_taster_2,recipe_lemon_rice,rating,2025-10-25T16:54:56.321915+00:00,3.0,,,,web
+JKq1SpJEn5ZlIiEuUYYK,user_taster_2,recipe_pancakes,rating,2025-10-23T07:13:56.321915+00:00,3.0,,,,mobile
+JLNOaRikRKjxD45BsHrO,user_adi,recipe_salad_bowl,rating,2025-10-29T09:11:56.321915+00:00,4.0,,,,mobile
+JvKoR8IeXDtIeILlPYSt,user_chef_1,recipe_fried_rice,view,2025-10-30T12:33:56.321915+00:00,,,,,web
+Jxs5dJLLmkDs81iZ5KMk,user_chef_1,recipe_salad_bowl,rating,2025-11-10T13:29:56.321915+00:00,3.0,,,,mobile
+JzElou5NMcl0FjeWisFn,user_taster_1,recipe_veg_maggi,view,2025-11-16T18:55:56.321915+00:00,,,,,web
+KPuKHvMUR3IldXgYqUeU,user_taster_1,recipe_pancakes,like,2025-11-01T14:32:56.321915+00:00,,,,,web
+Ke1ZhFu50XfWwEXz8Z1G,user_chef_2,recipe_veg_pulao,like,2025-10-29T08:22:56.321915+00:00,,,,,mobile
+KiSJ5sdmXk9LNaaYrX7D,user_chef_1,recipe_tomato_soup,like,2025-10-29T06:49:56.321915+00:00,,,,,web
+LOcfBaccgrZvKiut4MiA,user_adi,recipe_white_sauce_pasta,rating,2025-10-23T03:18:56.321915+00:00,4.0,,,,web
+LPTnZ4PQgBgmcJw5fik8,user_taster_2,recipe_paneer_butter_masala,like,2025-11-16T04:54:56.321915+00:00,,,,,web
+LkRuUXRpxcH8Ho2r37Bx,user_chef_2,recipe_choco_brownie,like,2025-11-06T08:50:56.321915+00:00,,,,,web
+LxAkOG3MOPQd75EDIKrU,user_chef_2,recipe_tomato_soup,rating,2025-10-27T05:37:56.321915+00:00,4.0,,,,web
+M4RVlY3RzkK4KlEve26m,user_chef_1,recipe_veg_wrap,view,2025-11-15T20:50:56.321915+00:00,,,,,mobile
+MM2A5pVMZ45RxLwHdbXu,user_taster_2,recipe_white_sauce_pasta,like,2025-11-09T04:52:56.321915+00:00,,,,,web
+MNYXz2P3QZvStVZNykHZ,user_chef_1,recipe_veg_maggi,like,2025-11-06T00:52:56.321915+00:00,,,,,mobile
+Mn5w7ERXC6vwa9itJaJ3,user_taster_1,recipe_paneer_butter_masala,like,2025-10-30T09:44:56.321915+00:00,,,,,mobile
+NPqccBqMwv5ewpYB1Bp7,user_chef_1,recipe_garlic_bread,cook_attempt,2025-11-10T23:39:56.321915+00:00,,2.0,partial,Nice and easy recipe.,web
+NqhYqzmaJFFkqFB4iY7k,user_chef_2,recipe_masala_omelette,rating,2025-11-12T16:17:56.321915+00:00,4.0,,,,mobile
+OL7SFQUzujwCWm42BKEn,user_adi,recipe_garlic_bread,rating,2025-10-25T03:29:56.321915+00:00,4.0,,,,mobile
+ONOFmzz3A3ofuIsoyINU,user_chef_2,recipe_dal_tadka,view,2025-11-10T08:44:56.321915+00:00,,,,,mobile
+OhAXwPhwLoDGRquIyTfY,user_chef_2,recipe_masala_omelette,view,2025-10-24T12:53:56.321915+00:00,,,,,web
+Ote3torNLKuVrkLyLaFc,user_chef_2,recipe_fried_rice,view,2025-11-06T20:18:56.321915+00:00,,,,,mobile
+OxeraIMVjTEPCCktDMzE,user_taster_2,recipe_grilled_sandwich,cook_attempt,2025-11-01T02:04:56.321915+00:00,,2.0,failed,Turned out great!,mobile
+PD2AlfnfYqONho3BgmXq,user_taster_1,recipe_tomato_soup,rating,2025-11-02T09:25:56.321915+00:00,3.0,,,,web
+PEq5W4gnG9940FfomOr9,user_chef_2,recipe_choco_brownie,view,2025-11-14T21:49:56.321915+00:00,,,,,mobile
+PcJC6vZTq0KdphoK5WHL,user_adi,recipe_white_sauce_pasta,like,2025-11-07T03:53:56.321915+00:00,,,,,mobile
+Q8NhUuoJOf6pEzeAIIi2,user_chef_2,recipe_dal_tadka,view,2025-11-16T07:14:56.321915+00:00,,,,,web
+R2IZi8I839RVrahomqwj,user_chef_1,recipe_paneer_butter_masala,like,2025-11-04T16:57:56.321915+00:00,,,,,web
+R6nYCk1exmfQAxFTq7rv,user_adi,recipe_dal_tadka,cook_attempt,2025-11-03T14:44:56.321915+00:00,,4.0,success,Turned out great!,web
+RRT7f6NZiTGRX62gmJy1,user_adi,recipe_lemon_rice,cook_attempt,2025-11-15T20:48:56.321915+00:00,,5.0,success,,web
+RSEzndEP89HedFtBMsY6,user_adi,recipe_masala_omelette,rating,2025-11-02T22:08:56.321915+00:00,4.0,,,,web
+S5QOVeO2524Wf1QCbzpd,user_taster_1,recipe_grilled_sandwich,view,2025-10-30T15:31:56.321915+00:00,,,,,web
+SMkyMdMHLsROAQ1bijTS,user_chef_1,recipe_salad_bowl,cook_attempt,2025-10-31T06:03:56.321915+00:00,,1.0,success,Turned out great!,mobile
+SY4ziWnQ4WHGwV0cTV2n,user_taster_1,recipe_veg_pulao,rating,2025-10-30T23:52:56.321915+00:00,4.0,,,,mobile
+SZ5qnahMDWkRZyFNqmpk,user_adi,recipe_veg_maggi,like,2025-11-18T06:51:56.321915+00:00,,,,,web
+SxyDLEmVIsnCmdzMC1Vb,user_taster_2,recipe_fried_rice,rating,2025-11-11T19:03:56.321915+00:00,4.0,,,,web
+TURqiEsffhaaCTt6fzdH,user_taster_1,recipe_fried_rice,rating,2025-11-02T11:37:56.321915+00:00,5.0,,,,mobile
+TgCTCMA57MbHg7Wb96n5,user_taster_2,recipe_veg_maggi,rating,2025-11-16T16:17:56.321915+00:00,5.0,,,,web
+TxnlRd6vjq3rnZEB6Snx,user_taster_1,recipe_garlic_bread,like,2025-11-03T02:51:56.321915+00:00,,,,,web
+VH9nQnx6FFsKGHptQNlV,user_chef_2,recipe_veg_wrap,rating,2025-11-08T18:23:56.321915+00:00,5.0,,,,web
+VavSG8hyCEwnUifbXCaK,user_adi,recipe_masala_omelette,rating,2025-11-19T08:06:56.321915+00:00,4.0,,,,web
+VpqbbLRJXJix4LPv4C3l,user_taster_2,recipe_garlic_bread,view,2025-11-05T08:48:56.321915+00:00,,,,,mobile
+VuvLbGwAxRJbsBR8ILv9,user_taster_2,recipe_veg_maggi,like,2025-11-16T01:24:56.321915+00:00,,,,,web
+WJ3Hv4JmxzCm4mWuXmuZ,user_taster_2,recipe_smoothie,cook_attempt,2025-11-01T05:01:56.321915+00:00,,3.0,partial,A bit too spicy.,web
+WN50EGFpo2EtVifnvA9b,user_taster_2,recipe_fried_rice,view,2025-11-02T00:34:56.321915+00:00,,,,,mobile
+X4YHOx6Z4QFjk0fgb6oG,user_adi,recipe_lemon_rice,rating,2025-11-16T03:37:56.321915+00:00,5.0,,,,web
+XG6CMIjBKCjPYlQ8zdcY,user_chef_1,recipe_salad_bowl,like,2025-10-27T13:51:56.321915+00:00,,,,,web
+XLAEUuw1m3LxBJMGgPxd,user_chef_1,recipe_grilled_sandwich,like,2025-11-14T13:26:56.321915+00:00,,,,,mobile
+XM3RmxBGgWoB0iU2Ej3r,user_taster_2,recipe_white_sauce_pasta,rating,2025-11-17T22:05:56.321915+00:00,4.0,,,,mobile
+XZ8OVJStgEjIHkhsQxVB,user_adi,recipe_veg_wrap,view,2025-10-27T04:39:56.321915+00:00,,,,,web
+Xgzt9nlSupAzsTWy9cOs,user_chef_1,recipe_white_sauce_pasta,view,2025-11-15T18:16:56.321915+00:00,,,,,mobile
+XkJoYl09B3NjuKlPNsWm,user_chef_1,recipe_paneer_butter_masala,like,2025-11-04T09:06:56.321915+00:00,,,,,mobile
+XuRxkRBFksO3l6Veamku,user_chef_2,recipe_fried_rice,rating,2025-11-13T23:56:56.321915+00:00,5.0,,,,mobile
+YFgvrZOdITCpQGNyiCgD,user_taster_2,recipe_smoothie,cook_attempt,2025-11-06T14:03:56.321915+00:00,,1.0,partial,Nice and easy recipe.,web
+YuBQSrKkBftr8bYfvpD2,user_chef_2,recipe_paneer_butter_masala,like,2025-10-20T09:03:56.321915+00:00,,,,,web
+ZZe6z4ROuhpRaZm1n97c,user_adi,recipe_veg_maggi,rating,2025-10-26T18:46:56.321915+00:00,4.0,,,,mobile
+ZgjZpMab7kVawXFa4RMY,user_chef_1,recipe_masala_omelette,cook_attempt,2025-10-26T20:42:56.321915+00:00,,2.0,failed,Turned out great!,web
+ZtQKyIxWMR8a40oIgiWP,user_taster_2,recipe_choco_brownie,cook_attempt,2025-10-23T13:29:56.321915+00:00,,5.0,partial,Turned out great!,web
+Zyk8wfcLzgBHGs0CN2wg,user_chef_1,recipe_pancakes,rating,2025-11-10T16:50:56.321915+00:00,4.0,,,,mobile
+aKzYtl990FOzLhvL9Ego,user_chef_1,recipe_tomato_soup,view,2025-10-27T12:17:56.321915+00:00,,,,,mobile
+aufcu9UcL8m9MP4CPRsw,user_chef_2,recipe_pancakes,rating,2025-10-31T10:33:56.321915+00:00,3.0,,,,web
+bT7GR6IYbu0tBiTM9Dbl,user_chef_1,recipe_grilled_sandwich,cook_attempt,2025-11-19T09:51:56.321915+00:00,,5.0,partial,A bit too spicy.,mobile
+c1757vm5Wp8GKNKIP2YK,user_taster_1,recipe_choco_brownie,like,2025-10-31T21:18:56.321915+00:00,,,,,mobile
+cU7CYdKxy1uvlMS7u3jH,user_taster_2,recipe_pancakes,like,2025-11-03T17:35:56.321915+00:00,,,,,mobile
+cUch1CBKz6MTJn1FQhN0,user_chef_2,recipe_tomato_soup,like,2025-11-03T12:28:56.321915+00:00,,,,,mobile
+cZWeUD4ONoKCAp0LtjdJ,user_chef_1,recipe_veg_wrap,rating,2025-11-12T09:03:56.321915+00:00,3.0,,,,web
+caR0m2hgrThLwejHepuL,user_taster_2,recipe_grilled_sandwich,view,2025-11-16T06:30:56.321915+00:00,,,,,web
+dHCzgiq9TaHfu39yqH8Q,user_taster_1,recipe_lemon_rice,view,2025-11-13T04:15:56.321915+00:00,,,,,web
+dMVZOT3WFl81RG0CYeAo,user_adi,recipe_veg_pulao,cook_attempt,2025-10-25T11:34:56.321915+00:00,,4.0,partial,Turned out great!,web
+dmRidJPgINZvEcanmT0R,user_adi,recipe_white_sauce_pasta,view,2025-10-29T14:43:56.321915+00:00,,,,,mobile
+eFlPNbrgX1YlSkqLh1qO,user_chef_2,recipe_dal_tadka,cook_attempt,2025-11-09T14:21:56.321915+00:00,,4.0,partial,,mobile
+eoR3IOHph5ap5fyN7WU4,user_adi,recipe_lemon_rice,view,2025-11-03T11:35:56.321915+00:00,,,,,web
+ezkAZFn3ki887qp4rpG6,user_adi,recipe_dal_tadka,rating,2025-11-08T05:29:56.321915+00:00,4.0,,,,mobile
+f29cz6qMeagrQVOzW8uV,user_taster_2,recipe_veg_wrap,like,2025-11-03T03:29:56.321915+00:00,,,,,mobile
+f5G1z13LRVXzTvpjaj3K,user_taster_1,recipe_masala_omelette,cook_attempt,2025-11-11T03:24:56.321915+00:00,,5.0,success,Nice and easy recipe.,web
+fGFMgRmDTCVxGVHzwK7k,user_taster_2,recipe_lemon_rice,view,2025-11-13T16:23:56.321915+00:00,,,,,web
+fKYdmvhQtG4i1Pf6whFl,user_chef_2,recipe_white_sauce_pasta,like,2025-10-21T08:50:56.321915+00:00,,,,,mobile
+ftytNbSUESStBDup39NS,user_taster_1,recipe_lemon_rice,rating,2025-10-21T18:30:56.321915+00:00,3.0,,,,web
+g2k0E2qvM8SBlULsM7MG,user_taster_1,recipe_masala_omelette,cook_attempt,2025-11-14T12:05:56.321915+00:00,,2.0,success,,web
+g3uPkoV0Nohli2UosVql,user_adi,recipe_paneer_butter_masala,like,2025-11-02T12:07:56.321915+00:00,,,,,mobile
+gIRa2OzK5pPdbZGjP1Ap,user_adi,recipe_white_sauce_pasta,view,2025-11-11T21:43:56.321915+00:00,,,,,web
+gJ29ubq76rOZ1wANKAB0,user_adi,recipe_grilled_sandwich,rating,2025-10-29T05:51:56.321915+00:00,5.0,,,,web
+gU7dGke8DN30qmnssodl,user_chef_2,recipe_grilled_sandwich,view,2025-10-31T04:23:56.321915+00:00,,,,,web
+gaFMLZa0a6CDmqafm5VM,user_taster_1,recipe_grilled_sandwich,like,2025-10-29T10:33:56.321915+00:00,,,,,web
+gm4M48IXvtRwtzYINWxN,user_taster_1,recipe_veg_wrap,view,2025-11-14T02:26:56.321915+00:00,,,,,mobile
+h4AgEdxJuJzG5RSmWSqP,user_chef_2,recipe_tomato_soup,like,2025-11-02T08:51:56.321915+00:00,,,,,mobile
+hAuTq9V260IEeKHhk3IF,user_chef_1,recipe_smoothie,like,2025-11-16T00:08:56.321915+00:00,,,,,web
+hIgjhtOLFUG15VxvFZhN,user_taster_1,recipe_paneer_butter_masala,view,2025-10-22T03:17:56.321915+00:00,,,,,mobile
+hMfWQ6wOpBZcqt9eCFDN,user_taster_2,recipe_grilled_sandwich,like,2025-11-01T22:51:56.321915+00:00,,,,,mobile
+iDR7QR3EyKKqfdNRfIyS,user_chef_1,recipe_lemon_rice,view,2025-11-10T05:27:56.321915+00:00,,,,,mobile
+iWCFd60WdsC3rDTgZrx1,user_taster_1,recipe_salad_bowl,view,2025-11-02T22:08:56.321915+00:00,,,,,web
+ibnvR5Bvo3hNOMvJ23yp,user_chef_1,recipe_veg_pulao,rating,2025-11-02T08:37:56.321915+00:00,5.0,,,,web
+j1LZTfJIGAJcJbnd8DEd,user_taster_1,recipe_veg_pulao,rating,2025-11-09T04:38:56.321915+00:00,4.0,,,,web
+jGeUDgV1EwWvff9kJqvH,user_chef_1,recipe_veg_wrap,view,2025-11-17T15:39:56.321915+00:00,,,,,mobile
+jkZmFW6F462KENzbNbBA,user_chef_2,recipe_veg_maggi,cook_attempt,2025-11-04T14:35:56.321915+00:00,,4.0,success,Turned out great!,mobile
+jnNTuqI9ROSiDG0lnswx,user_taster_1,recipe_salad_bowl,rating,2025-10-24T09:48:56.321915+00:00,3.0,,,,mobile
+jv4MH1tXN3UKvgzLEEHU,user_taster_2,recipe_veg_pulao,view,2025-10-25T05:41:56.321915+00:00,,,,,web
+jz7jCrnt2POp36UpdGNk,user_taster_1,recipe_smoothie,rating,2025-11-09T20:16:56.321915+00:00,3.0,,,,web
+kI8XehXTQebvL9RMqOyM,user_chef_2,recipe_tomato_soup,cook_attempt,2025-10-21T22:52:56.321915+00:00,,4.0,failed,,mobile
+l0H5kfylX9Pw1h8RS7ql,user_taster_2,recipe_salad_bowl,rating,2025-10-22T19:36:56.321915+00:00,5.0,,,,web
+lKX6prtSrF7OtIyXl9xB,user_chef_2,recipe_white_sauce_pasta,like,2025-11-05T07:01:56.321915+00:00,,,,,web
+lP5jUZ2QbzVZRvH3K5Im,user_taster_2,recipe_tomato_soup,cook_attempt,2025-11-15T18:27:56.321915+00:00,,4.0,success,A bit too spicy.,mobile
+lWOiILxvquTk354DG8LY,user_chef_1,recipe_white_sauce_pasta,view,2025-11-16T19:16:56.321915+00:00,,,,,mobile
+lhfuwYZ4d4XkthSwcUyj,user_taster_1,recipe_garlic_bread,like,2025-11-14T05:31:56.321915+00:00,,,,,mobile
+lwkDoHTMYoWCbepghrXS,user_chef_2,recipe_pancakes,like,2025-11-19T16:49:56.321915+00:00,,,,,mobile
+m3VLNfZXUV81j6D9db7J,user_taster_2,recipe_dal_tadka,rating,2025-11-13T19:07:56.321915+00:00,4.0,,,,mobile
+mEt55APMTAQoTLB3fY6x,user_chef_2,recipe_smoothie,like,2025-10-27T15:37:56.321915+00:00,,,,,mobile
+mMRRaiGyST0rHwAGkPEW,user_taster_1,recipe_salad_bowl,view,2025-10-21T15:08:56.321915+00:00,,,,,mobile
+mNNVaSZvpogN4vP9zffC,user_chef_2,recipe_paneer_butter_masala,like,2025-11-04T18:37:56.321915+00:00,,,,,mobile
+n5VlHtuf8J7tiVP4f2GM,user_taster_2,recipe_lemon_rice,like,2025-10-21T12:46:56.321915+00:00,,,,,mobile
+nJWZlV5dYEN9vjEv8NHE,user_chef_1,recipe_fried_rice,view,2025-11-05T12:03:56.321915+00:00,,,,,mobile
+nUjZwmYetKL5Wwz7JKlD,user_taster_1,recipe_white_sauce_pasta,view,2025-11-10T02:43:56.321915+00:00,,,,,mobile
+oRTkTlDEaRUjXv1lbfx1,user_chef_2,recipe_smoothie,cook_attempt,2025-11-10T20:52:56.321915+00:00,,5.0,failed,,web
+pMriUYXYhQZzRyl1v8Y9,user_taster_1,recipe_garlic_bread,rating,2025-11-19T13:29:56.321915+00:00,3.0,,,,web
+puLJ3JCrXbPSkW0osUoC,user_adi,recipe_veg_wrap,like,2025-10-24T14:24:56.321915+00:00,,,,,mobile
+q7JvghzZ2RMLKxTzzoP0,user_chef_1,recipe_pancakes,rating,2025-11-12T18:40:56.321915+00:00,4.0,,,,web
+qGmrC5pJABmsJci2BVV6,user_adi,recipe_grilled_sandwich,view,2025-11-04T04:02:56.321915+00:00,,,,,web
+qkKRvCk5qRXVHMHqVlqO,user_taster_1,recipe_paneer_butter_masala,rating,2025-11-17T18:00:56.321915+00:00,5.0,,,,web
+qkTtxxm39AjHoqc0qfOG,user_adi,recipe_choco_brownie,cook_attempt,2025-11-16T18:27:56.321915+00:00,,3.0,failed,,mobile
+qprn4ow5pD4kJ7Qs1M4Q,user_taster_2,recipe_white_sauce_pasta,rating,2025-11-03T02:57:56.321915+00:00,3.0,,,,mobile
+qr0bi5tOEjM6cYxzK6eU,user_taster_2,recipe_pancakes,view,2025-10-29T10:54:56.321915+00:00,,,,,web
+rAth5WSmsWGJzwn8e5Zx,user_chef_2,recipe_veg_pulao,like,2025-10-29T01:25:56.321915+00:00,,,,,mobile
+rJ96ShXC9Q4rGAKGipxA,user_adi,recipe_paneer_butter_masala,rating,2025-11-19T18:07:56.321915+00:00,3.0,,,,web
+rvyUklSduwrMnOnYN9l6,user_adi,recipe_salad_bowl,view,2025-11-17T17:42:56.321915+00:00,,,,,mobile
+sHjdxWLSFN01alfryDdn,user_chef_1,recipe_veg_wrap,cook_attempt,2025-11-12T02:20:56.321915+00:00,,5.0,failed,A bit too spicy.,web
+sIjvC5iKWBENxv5hKhTM,user_chef_2,recipe_lemon_rice,like,2025-11-16T15:42:56.321915+00:00,,,,,mobile
+sKN1Dx0UJcJ8DpxNn6RQ,user_chef_2,recipe_paneer_butter_masala,view,2025-11-12T10:01:56.321915+00:00,,,,,mobile
+sNX6vFTSlHPqL0Uqq7DM,user_chef_2,recipe_masala_omelette,view,2025-11-08T13:13:56.321915+00:00,,,,,web
+sSOkFR5lfz0ehuACa5Wx,user_chef_2,recipe_white_sauce_pasta,rating,2025-11-11T11:37:56.321915+00:00,3.0,,,,mobile
+tCbNJVWSPhCsVXDaIjJL,user_taster_1,recipe_salad_bowl,cook_attempt,2025-10-24T00:29:56.321915+00:00,,3.0,partial,A bit too spicy.,web
+uIPD86x8EmO2IRbPCWZs,user_chef_1,recipe_paneer_butter_masala,like,2025-11-08T11:16:56.321915+00:00,,,,,mobile
+uJ9y47dM2kgADUAwC279,user_adi,recipe_salad_bowl,like,2025-11-14T16:18:56.321915+00:00,,,,,web
+uhpL3ocxE3yJbeswyAA9,user_taster_2,recipe_garlic_bread,like,2025-10-24T17:52:56.321915+00:00,,,,,mobile
+ut8BbLOZab4bFKVP9d5U,user_adi,recipe_lemon_rice,view,2025-10-29T22:55:56.321915+00:00,,,,,mobile
+vs0MsPPXc9FCZhnO0aul,user_taster_1,recipe_veg_wrap,view,2025-10-26T14:16:56.321915+00:00,,,,,web
+wDclOizTJpNVmZUl4J22,user_taster_1,recipe_lemon_rice,rating,2025-11-07T22:37:56.321915+00:00,5.0,,,,web
+wSg2wXFQFI0uI5GhFTM3,user_taster_2,recipe_veg_wrap,view,2025-11-13T13:12:56.321915+00:00,,,,,web
+wqdWxlXsyGxgtkzsFMn9,user_chef_1,recipe_lemon_rice,cook_attempt,2025-11-04T17:58:56.321915+00:00,,1.0,partial,A bit too spicy.,web
+wrVagjU5EggGjJknrltY,user_taster_1,recipe_paneer_butter_masala,like,2025-10-21T18:31:56.321915+00:00,,,,,mobile
+x0Mb3RFnrnVUSf2drHOs,user_adi,recipe_paneer_butter_masala,cook_attempt,2025-10-22T10:55:56.321915+00:00,,3.0,success,,mobile
+xJqjjI0xwNpmHXdrCg5w,user_taster_1,recipe_smoothie,view,2025-10-28T13:23:56.321915+00:00,,,,,web
+xQiOpsfm6OSmIWe1919S,user_taster_1,recipe_veg_maggi,cook_attempt,2025-11-10T14:46:56.321915+00:00,,2.0,failed,,mobile
+zE0vGdpWLaZMZGYUNtQY,user_taster_2,recipe_salad_bowl,rating,2025-10-31T15:34:56.321915+00:00,4.0,,,,web
+zaqZ4Eiq2ypds0FuDZC4,user_chef_1,recipe_choco_brownie,like,2025-10-30T00:41:56.321915+00:00,,,,,mobile
+zosTqENtedgIUyJfVjfI,user_taster_1,recipe_choco_brownie,cook_attempt,2025-11-09T14:28:56.321915+00:00,,3.0,success,Turned out great!,web

@@ -1,0 +1,52 @@
+recipeId,stepNumber,instruction,approxMinutes
+recipe_choco_brownie,1,Heat oil in a pan and sauté onions until golden.,5
+recipe_choco_brownie,2,Add tomatoes and cook until soft.,7
+recipe_choco_brownie,3,Add spices and cook the mixture.,5
+recipe_dal_tadka,1,Heat oil in a pan and sauté onions until golden.,5
+recipe_dal_tadka,2,Add tomatoes and cook until soft.,7
+recipe_dal_tadka,3,Add spices and cook the mixture.,5
+recipe_fried_rice,1,Heat oil in a pan and sauté onions until golden.,5
+recipe_fried_rice,2,Add tomatoes and cook until soft.,7
+recipe_fried_rice,3,Add spices and cook the mixture.,5
+recipe_garlic_bread,1,Heat oil in a pan and sauté onions until golden.,5
+recipe_garlic_bread,2,Add tomatoes and cook until soft.,7
+recipe_garlic_bread,3,Add spices and cook the mixture.,5
+recipe_grilled_sandwich,1,Heat oil in a pan and sauté onions until golden.,5
+recipe_grilled_sandwich,2,Add tomatoes and cook until soft.,7
+recipe_grilled_sandwich,3,Add spices and cook the mixture.,5
+recipe_lemon_rice,1,Heat oil in a pan and sauté onions until golden.,5
+recipe_lemon_rice,2,Add tomatoes and cook until soft.,7
+recipe_lemon_rice,3,Add spices and cook the mixture.,5
+recipe_masala_omelette,1,Heat oil in a pan and sauté onions until golden.,5
+recipe_masala_omelette,2,Add tomatoes and cook until soft.,7
+recipe_masala_omelette,3,Add spices and cook the mixture.,5
+recipe_pancakes,1,Heat oil in a pan and sauté onions until golden.,5
+recipe_pancakes,2,Add tomatoes and cook until soft.,7
+recipe_pancakes,3,Add spices and cook the mixture.,5
+recipe_paneer_butter_masala,1,Heat oil in a pan and sauté onions until golden.,5
+recipe_paneer_butter_masala,2,Add tomatoes and cook until soft.,7
+recipe_paneer_butter_masala,3,Add spices and cook the mixture.,5
+recipe_salad_bowl,1,Heat oil in a pan and sauté onions until golden.,5
+recipe_salad_bowl,2,Add tomatoes and cook until soft.,7
+recipe_salad_bowl,3,Add spices and cook the mixture.,5
+recipe_smoothie,1,Heat oil in a pan and sauté onions until golden.,5
+recipe_smoothie,2,Add tomatoes and cook until soft.,7
+recipe_smoothie,3,Add spices and cook the mixture.,5
+recipe_tomato_soup,1,Heat oil in a pan and sauté onions until golden.,5
+recipe_tomato_soup,2,Add tomatoes and cook until soft.,7
+recipe_tomato_soup,3,Add spices and cook the mixture.,5
+recipe_veg_maggi,1,Heat oil in a pan and sauté onions until golden.,5
+recipe_veg_maggi,2,Add tomatoes and cook until soft.,7
+recipe_veg_maggi,3,Add spices and cook the mixture.,5
+recipe_veg_pulao,1,Heat oil in a pan and sauté onions until golden.,5
+recipe_veg_pulao,2,Add tomatoes and cook until soft.,7
+recipe_veg_pulao,3,Add spices and cook the mixture.,5
+recipe_veg_wrap,1,Heat oil in a pan and sauté onions until golden.,5
+recipe_veg_wrap,2,Add tomatoes and cook until soft.,7
+recipe_veg_wrap,3,Add spices and cook the mixture.,5
+recipe_white_sauce_pasta,1,Boil pasta in salted water until al dente. Drain and keep aside.,10
+recipe_white_sauce_pasta,2,"In a pan, melt butter on low flame and sauté garlic until fragrant.",3
+recipe_white_sauce_pasta,3,"Add flour and cook, stirring continuously, until the raw smell goes away.",2
+recipe_white_sauce_pasta,4,Slowly add milk while whisking to avoid lumps. Cook until the sauce thickens.,5
+recipe_white_sauce_pasta,5,"Season with salt, black pepper, and mixed herbs. Add cheese if using.",2
+recipe_white_sauce_pasta,6,"Add boiled pasta to the sauce, toss well, and cook for a couple of minutes.",3

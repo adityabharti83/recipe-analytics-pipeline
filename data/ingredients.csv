@@ -1,0 +1,55 @@
+recipeId,ingredientId,name,quantity,unit,notes
+recipe_choco_brownie,choco_brownie-ING-01,Onion,1.0,piece,finely chopped
+recipe_choco_brownie,choco_brownie-ING-02,Tomato,2.0,piece,pureed
+recipe_choco_brownie,choco_brownie-ING-03,Oil,2.0,tbsp,
+recipe_dal_tadka,dal_tadka-ING-01,Onion,1.0,piece,finely chopped
+recipe_dal_tadka,dal_tadka-ING-02,Tomato,2.0,piece,pureed
+recipe_dal_tadka,dal_tadka-ING-03,Oil,2.0,tbsp,
+recipe_fried_rice,fried_rice-ING-01,Onion,1.0,piece,finely chopped
+recipe_fried_rice,fried_rice-ING-02,Tomato,2.0,piece,pureed
+recipe_fried_rice,fried_rice-ING-03,Oil,2.0,tbsp,
+recipe_garlic_bread,garlic_bread-ING-01,Onion,1.0,piece,finely chopped
+recipe_garlic_bread,garlic_bread-ING-02,Tomato,2.0,piece,pureed
+recipe_garlic_bread,garlic_bread-ING-03,Oil,2.0,tbsp,
+recipe_grilled_sandwich,grilled_sandwich-ING-01,Onion,1.0,piece,finely chopped
+recipe_grilled_sandwich,grilled_sandwich-ING-02,Tomato,2.0,piece,pureed
+recipe_grilled_sandwich,grilled_sandwich-ING-03,Oil,2.0,tbsp,
+recipe_lemon_rice,lemon_rice-ING-01,Onion,1.0,piece,finely chopped
+recipe_lemon_rice,lemon_rice-ING-02,Tomato,2.0,piece,pureed
+recipe_lemon_rice,lemon_rice-ING-03,Oil,2.0,tbsp,
+recipe_masala_omelette,masala_omelette-ING-01,Onion,1.0,piece,finely chopped
+recipe_masala_omelette,masala_omelette-ING-02,Tomato,2.0,piece,pureed
+recipe_masala_omelette,masala_omelette-ING-03,Oil,2.0,tbsp,
+recipe_pancakes,pancakes-ING-01,Onion,1.0,piece,finely chopped
+recipe_pancakes,pancakes-ING-02,Tomato,2.0,piece,pureed
+recipe_pancakes,pancakes-ING-03,Oil,2.0,tbsp,
+recipe_paneer_butter_masala,paneer_butter_masala-ING-01,Onion,1.0,piece,finely chopped
+recipe_paneer_butter_masala,paneer_butter_masala-ING-02,Tomato,2.0,piece,pureed
+recipe_paneer_butter_masala,paneer_butter_masala-ING-03,Oil,2.0,tbsp,
+recipe_salad_bowl,salad_bowl-ING-01,Onion,1.0,piece,finely chopped
+recipe_salad_bowl,salad_bowl-ING-02,Tomato,2.0,piece,pureed
+recipe_salad_bowl,salad_bowl-ING-03,Oil,2.0,tbsp,
+recipe_smoothie,smoothie-ING-01,Onion,1.0,piece,finely chopped
+recipe_smoothie,smoothie-ING-02,Tomato,2.0,piece,pureed
+recipe_smoothie,smoothie-ING-03,Oil,2.0,tbsp,
+recipe_tomato_soup,tomato_soup-ING-01,Onion,1.0,piece,finely chopped
+recipe_tomato_soup,tomato_soup-ING-02,Tomato,2.0,piece,pureed
+recipe_tomato_soup,tomato_soup-ING-03,Oil,2.0,tbsp,
+recipe_veg_maggi,veg_maggi-ING-01,Onion,1.0,piece,finely chopped
+recipe_veg_maggi,veg_maggi-ING-02,Tomato,2.0,piece,pureed
+recipe_veg_maggi,veg_maggi-ING-03,Oil,2.0,tbsp,
+recipe_veg_pulao,veg_pulao-ING-01,Onion,1.0,piece,finely chopped
+recipe_veg_pulao,veg_pulao-ING-02,Tomato,2.0,piece,pureed
+recipe_veg_pulao,veg_pulao-ING-03,Oil,2.0,tbsp,
+recipe_veg_wrap,veg_wrap-ING-01,Onion,1.0,piece,finely chopped
+recipe_veg_wrap,veg_wrap-ING-02,Tomato,2.0,piece,pureed
+recipe_veg_wrap,veg_wrap-ING-03,Oil,2.0,tbsp,
+recipe_white_sauce_pasta,WSP-ING-01,Penne pasta,200.0,grams,or any short pasta
+recipe_white_sauce_pasta,WSP-ING-02,Butter,2.0,tbsp,
+recipe_white_sauce_pasta,WSP-ING-03,All-purpose flour (maida),2.0,tbsp,
+recipe_white_sauce_pasta,WSP-ING-04,Milk,1.5,cups,room temperature
+recipe_white_sauce_pasta,WSP-ING-05,Garlic,3.0,cloves,finely chopped
+recipe_white_sauce_pasta,WSP-ING-06,Mixed herbs,1.0,tsp,oregano + chilli flakes
+recipe_white_sauce_pasta,WSP-ING-07,Black pepper,0.5,tsp,freshly crushed
+recipe_white_sauce_pasta,WSP-ING-08,Salt,1.0,tsp,adjust to taste
+recipe_white_sauce_pasta,WSP-ING-09,Cheese (optional),0.25,cup,grated
