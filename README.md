@@ -346,6 +346,6 @@ Contributions are what make the open source community such an amazing place to l
 
 ## 📧 Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - your.email@example.com
+- Your Name - Aditya Bharti 
+- Email - adityabharti6088@gmail.com
 
-Project Link: [https://github.com/yourusername/recipe-analytics](https://github.com/yourusername/recipe-analytics)
