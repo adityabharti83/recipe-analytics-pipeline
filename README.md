@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="images/logo.jpg" alt="Recipe Analytics Logo" width="200">
+</div>
+
 # 🍳 Recipe Analytics Pipeline with Firebase
 
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/downloads/)
@@ -509,6 +513,13 @@ matplotlib==3.10.7
 - [ ] **Meal Planning** - Weekly menu generator
 - [ ] **Shopping List** - Auto-generated from recipes
 - [ ] **Dietary Filters** - Filter by dietary restrictions
+
+## ⚠️ Known Constraints & Limitations
+
+- Synthetic data: User interactions are simulated, so insights are illustrative, not from real production usage.
+- Single-category focus: The pipeline is built around a recipe use case and may need adjustments for other domains.
+- Batch-oriented ETL: Current implementation runs as on-demand scripts, not scheduled or streaming.
+- Limited scale testing: The dataset is small (dozens of recipes, a few hundred interactions); performance on very large datasets is not benchmarked.
 
 ## 📄 License
 
