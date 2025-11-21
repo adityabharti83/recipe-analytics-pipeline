@@ -36,7 +36,15 @@ Built with a real-world use case using a White Sauce Pasta recipe as the primary
 
 ### 3.1 Entity Relationship Diagram
 
-*[Insert ERD Diagram Here - Consider adding an ERD image showing relationships between Users, Recipes, and Interactions]*
+![Entity Relationship Diagram](images/erd_diagram.png)
+*Figure 4: Entity Relationship Diagram showing relationships between Users, Recipes, and Interactions*
+
+*Note: To generate this diagram, you can use tools like:*
+- [dbdiagram.io](https://dbdiagram.io/)
+- [Lucidchart](https://www.lucidchart.com/)
+- [Draw.io](https://app.diagrams.net/)
+
+*The diagram should illustrate the one-to-many relationships between Users-Recipes and Recipes-Interactions.*
 
 ### 3.2 Core Collections
 
