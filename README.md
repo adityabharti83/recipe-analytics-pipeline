@@ -390,6 +390,55 @@ python analytics.py
 📈 Difficulty Distribution:
 - Easy: 12 recipes (75%)
 - Medium: 4 recipes (25%)
+
+## 📊 Gradio Analytics Dashboard
+
+### Interactive Recipe Analytics App
+
+A user-friendly web interface built with Gradio that provides interactive analytics for recipe performance and user engagement metrics. The app connects to Firebase Firestore to fetch real-time data and visualize key metrics.
+
+![Recipe Analytics Dashboard](images/Recipe%20Analytics%20Dashboard.png)
+*Figure X: Interactive Recipe Analytics Dashboard*
+
+### Key Features
+
+- **Real-time Data**: Fetches the latest recipe and event data from Firebase Firestore
+- **Interactive Visualizations**: Built with Plotly for interactive charts and graphs
+- **Time-based Analysis**: Filter analytics by different time windows (7, 14, or 30 days)
+- **Recipe-specific Metrics**: View detailed analytics for individual recipes
+- **User Engagement Tracking**: Monitor various interaction types (views, favorites, cooking attempts)
+
+### How to Run the App
+
+1. Ensure you have the required dependencies installed:
+   ```bash
+   pip install gradio pandas plotly firebase-admin
+   ```
+
+2. Prepare your Firebase credentials:
+   - Place your Firebase service account key as `serviceAccountKey.json` in the project root
+   - Make sure your Firestore database has the required `recipes` and `recipe_events` collections
+
+3. Run the Gradio app:
+   ```bash
+   python recipe_analytics_gradio_app.py
+   ```
+
+4. Access the web interface at the local URL provided in the console (typically `http://localhost:7860`)
+
+### App Components
+
+1. **Recipe Selection**: Dropdown to select any recipe from your Firestore database
+2. **Time Window**: Toggle between different time periods for analysis
+3. **Summary Metrics**: Key performance indicators at a glance
+4. **Interactive Charts**: Visual representations of engagement metrics over time
+5. **Event Logs**: Detailed table of recipe interactions
+
+The dashboard provides valuable insights into:
+- Recipe popularity trends
+- User engagement patterns
+- Cooking success rates
+- Time-based performance metrics
 - Hard: 0 recipes (0%)
 
 ⏱️ Average Prep Time: 13 minutes
